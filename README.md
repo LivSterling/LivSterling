@@ -1,5 +1,3 @@
-# TheSterlingStandard
-
 ![screenshot](img/text.gif)
 
 # 💫 About Me:
