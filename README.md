@@ -1,7 +1,7 @@
 ![screenshot](img/text.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on CodeWars, Freelance web development.<br>🤝 I’m looking for help with way to grow as an developer.<br>🌱 I’m currently learning JavaScript<br>⚡ Fun fact: I was a fashion designer before I started coding<br>💻 My Portfolio: https://thesterlingstandard.com/
+🔭 I’m currently working on CodeWars, Freelance web development.<br>🤝 I’m looking for help with way to grow as an developer.<br>⚡ Fun fact: I was a fashion designer before I started coding<br>💻 My Portfolio: https://thesterlingstandard.com/
 
 
 ## 🌐 Socials:
