@@ -3,12 +3,6 @@
   <img display='block'align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=black&section=header&reversal=false&descAlign=50&descAlignY=50#gh-dark-mode-only" width='72%'/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=ABD200&section=header&reversal=false&descAlign=50&descAlignY=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=black&section=header&reversal=false&descAlign=50&descAlignY=50">
-  <img alt="Fallback image description" src="default-image.png">
-</picture>
-
 <div align="center" clear='left'>
 
  [![Codewars](https://www.codewars.com/users/LivSterling/badges/micro)](https://www.codewars.com/users/LivSterling)  [![Profile Views](https://komarev.com/ghpvc/?username=LivSterling&color=3DA000&style=flat)](https://linkedin.com/in/LivSterling)
@@ -68,13 +62,6 @@
   
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LivSterling&theme=merko&hide_border=true&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LivSterling&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true"">
-  <img alt="Fallback image description" src="default-image.png">
-</picture>
-
-<img style="width:62%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LivSterling&theme=merko&show_icons=true&hide_border=true&bg_color=00000000" />
 
 
 
