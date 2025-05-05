@@ -1,7 +1,7 @@
 
 <p >
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='130'>
-  <img display='block'align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=ABD200&section=header&reversal=false&descAlign=50&descAlignY=50&theme=" width='760'/>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'>
+  <img display='block' align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=ABD200&section=header&reversal=false&descAlign=50&descAlignY=50&theme=" width='72%'/>
 </p>
 
 <div align="center" clear='both' style='clear: both;'>
