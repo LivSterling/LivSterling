@@ -1,7 +1,13 @@
 <p >
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'>
-  <img display='block'align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=black&section=header&reversal=false&descAlign=50&descAlignY=50&theme=" width='72%'/>
+  <img display='block'align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=black&section=header&reversal=false&descAlign=50&descAlignY=50#gh-dark-mode-only" width='72%'/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=ABD200&section=header&reversal=false&descAlign=50&descAlignY=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=black&section=header&reversal=false&descAlign=50&descAlignY=50">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
 
 <div align="center" clear='left'>
 
