@@ -54,10 +54,10 @@
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=3DA000&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /></a></h2>
 <div  align="center" class='container'; style="display: flex; flex-direction: row;">
-<img style="height: 220px; padding: 0%; margin: 0%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LivSterling&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
-<img style="height: 220px ;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivSterling&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-  <img style="height: ;" class="img" src="https://github-profile-trophy.vercel.app/?username=LivSterling&theme=matrix&no-frame=true&row=2&column=3" />
-<img style="height: 220px;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=LivSterling&theme=merko&hide_border=true" />
+<img style="width:55%; padding: 0%; margin: 0%;" class="img" src="https://github-readme-stats.vercel.app/api?username=LivSterling&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
+<img style="width:43%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivSterling&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img style="width:37%;" class="img" src="https://github-profile-trophy.vercel.app/?username=LivSterling&theme=matrix&no-frame=true&row=2&column=3" />
+<img style="width:62%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=LivSterling&theme=merko&hide_border=true" />
   
 </div>
 
