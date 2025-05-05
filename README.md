@@ -62,8 +62,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=LivSterling&theme=matrix&no-frame=true&margin-w=4)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LivSterling&theme=juicyfresh&no-frame=true&margin-w=4)
 
 
 <img  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0F0B,50:68B587,100:ABD200&textBg=false&animation=scaleIn&fontColor=black&section=footer&reversal=false&descAlign=50&descAlignY=50"/>
