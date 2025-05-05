@@ -4,15 +4,15 @@
   <img display='block'align="right" src="https://capsule-render.vercel.app/api?font=Press+Start+2P&type=venom&height=300&color=0:0A0F0B,50:68B587,100:ABD200&text=HI!%20I'm%20Sterling&textBg=false&animation=scaleIn&fontColor=ABD200&section=header&reversal=false&descAlign=50&descAlignY=50&theme=" width='760'/>
 </p>
 
-<div align="center" clear='left'>
+<div align="center" clear='both' style='clear: both;'>
 
  [![Codewars](https://www.codewars.com/users/LivSterling/badges/micro)](https://www.codewars.com/users/LivSterling)  [![Profile Views](https://komarev.com/ghpvc/?username=LivSterling&color=3DA000&style=flat)](https://linkedin.com/in/LivSterling)
 
 </div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=5000&color=3DA000&width=600&lines=Let's+Connect+and+have+a+Chat!" alt="Typing SVG" /></a></h1>
+<h1 align="center" clear='both' style='clear: both;'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=5000&color=3DA000&width=600&lines=Let's+Connect+and+have+a+Chat!" alt="Typing SVG" /></a></h1>
 
-<p align="center">
+<p align="center" clear='both' style='clear: both;'>
 
 <a href="mailto:sterlingchapmanmade@gmail.com" target="_blank" title="Email me">
     <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/25d5d3e2-2e65-487e-ba77-913bd895c191" alt="Email" />
