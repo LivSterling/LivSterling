@@ -1,25 +1,68 @@
-![screenshot](img/text.gif)
 
-# 💫 About Me:
-🔭 I’m currently working on CodeWars, Freelance web development.<br>🤝 I’m looking for help with way to grow as an developer.<br>⚡ Fun fact: I was a fashion designer before I started coding<br>💻 My Portfolio: https://thesterlingstandard.com/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:3DA000,50:3AED09,100:87FF8D&text=HI!%20I'm%20Sterling"/>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sterling-chapman-6a1792162/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/LivSterling) 
+ [![Codewars](https://www.codewars.com/users/LivSterling/badges/micro)](https://www.codewars.com/users/LivSterling)  [![Profile Views](https://komarev.com/ghpvc/?username=LivSterling&color=3DA000&style=flat)](https://linkedin.com/in/LivSterling)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LivSterling&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LivSterling&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LivSterling&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LivSterling&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
+<h1 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=3DA000&width=600&lines=Let's+Connect+and+have+a+Chat!" alt="Typing SVG" /></a></h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  
+<a href="https://www.thesterlingstandard.com/">
+  <img height="50" src="https://github.com/user-attachments/assets/14287a99-6e09-431b-915c-3fd42fdf43d2"/>
+</a>
+<a href="https://www.linkedin.com/in/sterlingchapman/">
+  <img height="50" src="https://github.com/user-attachments/assets/7e00cd83-c641-4134-b31b-9ea726dea670"/>
+</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=LivSterling&icon=5&color=3)](https://visitcount.itsvg.in)
+<a href="https://x.com/LivSterlingDev">
+  <img height="50" src="https://github.com/user-attachments/assets/885dcc92-ab98-4088-921f-67b543ecb84e"/>
+</a>
+<a href="https://www.instagram.com/livsterling/">
+  <img height="50" src="https://github.com/user-attachments/assets/3b5dcd6d-9176-4ba2-a58a-40299567267b"/>
+</a>
+</p>
+
+<h2 align="center">👨🏻‍💻  &nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=3DA000&vCenter=true&width=700&lines=A+Little+About+Me+and+My+Interests" alt="Typing SVG" /></a></h2>
+
+```javascript
+ name: Sterling Chapman
+located_in: Boston
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company:Resilient Coders
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Freelance web development",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
 
