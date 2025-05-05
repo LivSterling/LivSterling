@@ -60,9 +60,15 @@
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=5000&color=3DA000&center=true&vCenter=true&width=500&lines=GitHub+Trophies" alt="Typing SVG" /></a></h2>
 
+<div align="center>
+
 ![](https://github-profile-trophy.vercel.app/?username=LivSterling&theme=matrix&no-frame=true&margin-w=4)
+  
+</div>
 
 
 
-<img  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0F0B,50:68B587,100:ABD200&textBg=false&animation=scaleIn&fontColor=black&section=footer&reversal=false&descAlign=50&descAlignY=50"/>
+
+
+<img style=" width: 100%;"  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0F0B,50:68B587,100:ABD200&textBg=false&animation=scaleIn&fontColor=black&section=footer&reversal=false&descAlign=50&descAlignY=50"/>
 
