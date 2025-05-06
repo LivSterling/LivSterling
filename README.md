@@ -31,8 +31,8 @@
   <img height="50" src="https://github.com/user-attachments/assets/3b5dcd6d-9176-4ba2-a58a-40299567267b"/>
 </a>
 
-<a href="https://calendly.com/livsterling/" title="Calendly">
-    <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/4dd0d99d-ce48-4593-8983-8182d4000cc1" alt="Book a CoffeeChat on my Calendly" />
+<a href="https://calendly.com/livsterling/" title="Book a CoffeeChat on my Calendly">
+    <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/4dd0d99d-ce48-4593-8983-8182d4000cc1" alt="Calendly" />
   </a>
   
 </p>
