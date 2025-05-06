@@ -13,26 +13,26 @@
 
 <p align="center">
 
-<a href="mailto:sterlingchapmanmade@gmail.com" target="_blank" title="Email me">
+<a href="mailto:sterlingchapmanmade@gmail.com" target="_blank" title="Email me!">
     <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/25d5d3e2-2e65-487e-ba77-913bd895c191" alt="Email" />
   </a>
   
-<a href="https://www.thesterlingstandard.com/">
+<a href="https://www.thesterlingstandard.com/" title="My Portfolio">
   <img height="50" src="https://github.com/user-attachments/assets/60e9a9de-c497-4bdc-8bb1-bae0d778c497"/>
 </a>
-<a href="https://www.linkedin.com/in/sterlingchapman/">
+<a href="https://www.linkedin.com/in/sterlingchapman/" title="Let's Connect!">
   <img height="50" src="https://github.com/user-attachments/assets/7e00cd83-c641-4134-b31b-9ea726dea670"/>
 </a>
 
-<a href="https://x.com/LivSterlingDev">
+<a href="https://x.com/LivSterlingDev" title="I still call it Twitter">
   <img height="50" src="https://github.com/user-attachments/assets/885dcc92-ab98-4088-921f-67b543ecb84e"/>
 </a>
-<a href="https://www.instagram.com/livsterling/">
+<a href="https://www.instagram.com/livsterling/" title="My Life">
   <img height="50" src="https://github.com/user-attachments/assets/3b5dcd6d-9176-4ba2-a58a-40299567267b"/>
 </a>
 
 <a href="https://calendly.com/livsterling/" title="Calendly">
-    <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/4dd0d99d-ce48-4593-8983-8182d4000cc1" alt="Calendly" />
+    <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/4dd0d99d-ce48-4593-8983-8182d4000cc1" alt="Book a CoffeeChat on my Calendly" />
   </a>
   
 </p>
