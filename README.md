@@ -67,7 +67,7 @@ Currently practicing the 1% rule and leveling up every day at **Resilient Coders
   
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif#gh-light-mode-only'>
+<img align="center" style=" width: 100%;" src='https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif#gh-light-mode-only'>
 
 
 <img style=" width: 100%;"  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0F0B,50:68B587,100:ABD200&textBg=false&animation=scaleIn&fontColor=black&section=footer&reversal=false&descAlign=50&descAlignY=50"/>
