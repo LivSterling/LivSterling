@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="mailto:sterlingchapmanmade@gmail.com" target="_blank" title="Email me!">
+<a href="mailto:thesterlingstandard@outlook.com" target="_blank" title="Email me!">
     <img loading="lazy" height="50" src="https://github.com/user-attachments/assets/25d5d3e2-2e65-487e-ba77-913bd895c191" alt="Email" />
   </a>
   
